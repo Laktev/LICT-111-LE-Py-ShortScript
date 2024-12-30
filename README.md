@@ -1,3 +1,2 @@
-# Forhoot
-(MEX2) - Putt 3Monke shits
-[To be wriiten later...]
+# LICT 111 - LE
+Monke made a script using the given flowchart on py hwehwehwehwehwe
